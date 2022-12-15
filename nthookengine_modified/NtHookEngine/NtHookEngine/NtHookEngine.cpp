@@ -181,7 +181,7 @@ VOID *CreateBridge(ULONG_PTR Function, const UINT JumpSize)
 
 	res = distorm_decode(offset,	// offset for buffer
 		(const BYTE *) Function,	// buffer to disassemble
-		50,							// function size (code size to disasm) 
+		13,							// function size (code size to disasm) 
 									// 50 instr should be _quite_ enough
 		dt,							// x86 or x64?
 		decodedInstructions,		// decoded instr
