@@ -38,6 +38,6 @@ Open the .sln file with visual studio and let it upgrade the solution. Build the
 - **nthookengine_modified** code upgrade to vs-studio 2022 with binaries built on this version
 
 ## The bug and fix
-There is a miss calculation on the code size to disam so I changed it distorm_decode
+There is a miss calculation on the code size to disam so I changed it [View Fix](https://github.com/raigorx/nthookengine/commit/48620a98161842677a7ca59bec9e2c6e4f576e64)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
