@@ -10,9 +10,9 @@
   </summary>
   <ul>
     <li><a href="#why">Why?</a></li>
-    <li><a href="#how-to-buildcompile-original-codeHow">How to Build/Compile original code</a></li>
+    <li><a href="#how-to-buildcompile-original-code">How to Build/Compile original code</a></li>
     <li><a href="#code-structure">Code structure</a></li>
-    <li><a href="#the-bug-and-fix">The bug and fi</a></li>
+    <li><a href="#the-bug-and-fix">The bug and fix</a></li>
   </ul>
 </details>
 
